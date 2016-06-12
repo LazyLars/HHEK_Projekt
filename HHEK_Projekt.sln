@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHEK_Projekt", "HHEK_Projekt\HHEK_Projekt.csproj", "{A94FB942-6DE4-4DE8-B146-1913DEC78721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94FB942-6DE4-4DE8-B146-1913DEC78721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94FB942-6DE4-4DE8-B146-1913DEC78721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94FB942-6DE4-4DE8-B146-1913DEC78721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94FB942-6DE4-4DE8-B146-1913DEC78721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
